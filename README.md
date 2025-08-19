@@ -13,10 +13,10 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tarunk0201&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Tarunk0201&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Your GitHub Stats" width="450" height="180" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunk0201&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunk0201&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="450" height="180"/>
       </td>
     </tr>
     <tr>
