@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+ 🔭 I’m currently working on AveryBit
+ 🌱 I’m currently learning  full stack
 <!--
 **Tarunk0201/Tarunk0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
