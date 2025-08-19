@@ -1,24 +1,21 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+### 👋 Hi, I'm Tarun Kumar Singh!
 
-<h3 align="center">Building impactful software, one line of code at a time.</h3>
+<br>
+
+A passionate **Full Stack Developer** sharing my journey and learnings in tech.
+
+<br>
+
+* 💻 A self-taught developer, I am constantly learning to code using different courses and online resources.
+* 🌱 I'm always learning, and currently focusing on **backend development**.
+
+<br>
 
 ---
 
-- 🔭 I'm currently working on **[Your Current Project or Role]**.
-- 🌱 I'm always learning new things, currently focusing on **[A specific technology or concept]**.
-- 💬 Ask me about **[Your area of expertise, e.g., APIs, cloud computing, front-end design]**.
-- 📫 How to reach me: **[Your Email]**.
-- ⚡ Fun fact: **[A fun, interesting fact about you]**.
+### 📈 GitHub Stats
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <a href="YOUR_LINK">
-    <img src="https://img.shields.io/badge/Language-Name?style=for-the-badge&logo=LANGUAGE_NAME&logoColor=white" alt="Language" />
-  </a>
-  <a href="YOUR_LINK">
-    <img src="https://img.shields.io/badge/Tool-Name?style=for-the-badge&logo=TOOL_NAME&logoColor=white" alt="Tool" />
-  </a>
-  </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
