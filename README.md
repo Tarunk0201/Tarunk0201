@@ -1,20 +1,24 @@
-### <div align="center">Hello, my name is [Your Name]! 👋</div>
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=I'm+a+developer.;I+build+cool+things.;I+love+to+collaborate!" alt="Typing SVG" />
-</div>
+<h3 align="center">Building impactful software, one line of code at a time.</h3>
 
 ---
 
-<div align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=github_dark" alt="GitHub Profile Details" />
-  </a>
-</div>
+- 🔭 I'm currently working on **[Your Current Project or Role]**.
+- 🌱 I'm always learning new things, currently focusing on **[A specific technology or concept]**.
+- 💬 Ask me about **[Your area of expertise, e.g., APIs, cloud computing, front-end design]**.
+- 📫 How to reach me: **[Your Email]**.
+- ⚡ Fun fact: **[A fun, interesting fact about you]**.
 
 ---
+
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <img src="https://github.readme.com/user/USERNAME" alt="GitHub Activity Graph" />
-</p>
+  <a href="YOUR_LINK">
+    <img src="https://img.shields.io/badge/Language-Name?style=for-the-badge&logo=LANGUAGE_NAME&logoColor=white" alt="Language" />
+  </a>
+  <a href="YOUR_LINK">
+    <img src="https://img.shields.io/badge/Tool-Name?style=for-the-badge&logo=TOOL_NAME&logoColor=white" alt="Tool" />
+  </a>
+  </p>
