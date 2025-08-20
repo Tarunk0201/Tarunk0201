@@ -1,6 +1,7 @@
 
 # 👋 Hi, I'm Tarun Singh!
-<br>💻 A self-taught developer, I am constantly learning to code using different courses and online resources.<br>🌱 I'm always learning, and currently focusing on backend development.<br><br>
+<br>💻 A self-taught developer, I am constantly learning to code using different courses and online resources.
+<br>🌱 I'm always learning, and currently focusing on backend development.<br><br>
 
 
 ## 🌐 Socials:
